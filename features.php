@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">Powerful Features for Modern Businesses</h2>
-            <p class="section-subtitle">Everything you need to run your business efficiently</p>
+            <p class="section-subtitle">Here you will find Everything you need to run your business efficiently</p>
         </div>
 
         <div class="features-grid">
