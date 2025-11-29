@@ -219,7 +219,7 @@ p {
     font-size: 1.05rem;
 }
 /* ===================================
-   Pricing Section (Epic 4 - PREMIUM UI)
+   Pricing Section (Epic 4)
    =================================== */
 
 .pricing {
@@ -263,13 +263,13 @@ p {
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* 🔥 Premium Hover Animation */
+/* Premium Hover Animation */
 .pricing-card:hover {
     transform: translateY(-15px) scale(1.02);
     box-shadow: 0 25px 70px rgba(0, 0, 0, 0.35);
 }
 
-/* 🌟 Featured Card Glow */
+/* Featured Card Glow */
 .pricing-card.featured {
     background: linear-gradient(135deg, #6366f1, #22c55e);
     color: var(--white);
@@ -295,7 +295,7 @@ p {
     color: var(--white);
 }
 
-/* ⭐ Floating Badge */
+/* Floating Badge */
 .badge {
     position: absolute;
     top: -18px;
@@ -397,7 +397,7 @@ p {
     color: var(--white);
 }
 
-/* ✅ Button Alignment + Micro Hover */
+/*Button Alignment + Micro Hover */
 .pricing-card .btn {
     margin-top: auto;
     transition: all 0.3s ease;
