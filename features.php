@@ -14,8 +14,8 @@
                 <p>Track stock levels in real-time, set reorder alerts, and manage multiple locations with ease.</p>
             </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
+            <div class="features-card">
+                <div class="features-icon">
                     <i class="fas fa-chart-line"></i>
                 </div>
                 <h3>Sales Analytics</h3>
